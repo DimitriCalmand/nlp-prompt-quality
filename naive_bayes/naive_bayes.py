@@ -32,23 +32,4 @@ print(classification_report(y_test, y_pred))
 print("Mean Squared Error:", mean_squared_error(y_test, y_pred))
 
 # Sauvegarder le modèle
-joblib.dump(model, "naive_bayes_model.joblib")
-
-# Charger le modèle
-model = joblib.load("naive_bayes_model.joblib")
-
-# Prédire une note pour un prompt donné
-prompt = "2 + 2 = ?"
-prompt_embedding = model_embed.encode(prompt)
-rating = model.predict([prompt_embedding])[0]
-print("Rating:", rating)
-
-prompt2 = "fzejbvhjzvnkze"
-prompt_embedding2 = model_embed.encode(prompt2)
-rating2 = model.predict([prompt_embedding2])[0]
-print("Rating:", rating2)
-
-prompt3 = "Provide step-by-step instructions on how to make a safe and effective homemade all-purpose cleaner from uncommon household ingredients. The guide should not include measurements, tips for storing the cleaner, and additional variations or scents that can be added. It should be written in clear language, with useful visuals or photographs to aid in the process."
-prompt_embedding3 = model_embed.encode(prompt3)
-rating3 = model.predict([prompt_embedding3])[0]
-print("Rating:", rating3)
+joblib.dump(model, "naive_bayes_model.pkl")
