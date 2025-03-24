@@ -5,33 +5,12 @@ from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
-from sklearn.metrics import mean_squared_error, r2_score
 
 TOKENIZER_TYPE = 'BOW'  # Choose from 'BOW', 'TF-IDF', 'TRANSFORMER'
-PROMPT = """In a markdown format, can you provide a recipe for black bean tacos?
-## Black Bean Tacos Recipe
-### Ingredients:
-- 1 can of black beans
-- 1 onion, diced
-- 1 red bell pepper, diced
-- 1 green bell pepper, diced
-- 1 jalapeno pepper, diced
-- 2 cloves garlic, minced
-- 1 tsp. ground cumin
-- 1 tsp. chili powder
-- Salt and pepper to taste
-- 8-10 tortillas
-- Optional toppings: shredded cheese, chopped cilantro, diced tomatoes, avocado, lime wedges
-### Directions:
-1. In a large skillet, heat some oil over medium heat. Add onions, bell peppers, and jalapeno pepper. Cook until tender.
-2. Add garlic, cumin, and chili powder. Cook for another minute.
-3. Add black beans and cook until heated through.
-4. Warm tortillas in the microwave or on a skillet.
-5. Fill tortillas with black bean mixture and desired toppings.
-6. Squeeze fresh lime juice over tacos before serving. Enjoy! 
-Can you suggest any modifications to the recipe?"""
+LABEL_TYPE = 'KIND'  # Choose from 'KIND', 'GRADE'
+PROMPT = """I love bananas, can you make a recipe out of it ?"""
 
 
 ##########################
@@ -43,8 +22,15 @@ df = pd.read_parquet("dataset.parquet")
 #df = df[df["num_responses"] > 1]
 df = df[df["agreement_ratio"] > 0.4]
 
-y = df["avg_rating"]
+if LABEL_TYPE == 'KIND':
+    df["label_binary"] = df["kind"].apply(lambda x: 1 if x == "human" else 0)
+elif LABEL_TYPE == 'GRADE':
+    df["label_binary"] = df["avg_rating"].apply(lambda x: 1 if x >= 4 else 0)
+else:
+    raise ValueError("Invalid LABEL_TYPE. Choose from 'KIND', 'GRADE'")
+
 X = df["prompt"]
+y = df["label_binary"]
 
 
 ########################
@@ -78,9 +64,16 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=123
 )
 
+# Define the model hyperparameters
+params = {
+    "solver": "lbfgs",
+    "max_iter": 100,
+    "multi_class": "auto",
+    "random_state": 8888,
+}
 
 # Train the model
-lr = LinearRegression()
+lr = LogisticRegression(**params)
 lr.fit(X_train, y_train)
 
 
@@ -92,11 +85,15 @@ lr.fit(X_train, y_train)
 y_pred = lr.predict(X_test)
 
 # Calculate metrics
-mse = mean_squared_error(y_test, y_pred)
-r2 = r2_score(y_test, y_pred)
+accuracy = accuracy_score(y_test, y_pred)
+precision = precision_score(y_test, y_pred, average="weighted")
+recall = recall_score(y_test, y_pred, average="weighted")
+f1 = f1_score(y_test, y_pred, average="weighted")
 
-print(f"Mean Squared Error: {mse}")
-print(f"R^2 Score: {r2}")
+print(f"Accuracy: {accuracy}")
+print(f"Precision: {precision}")
+print(f"Recall: {recall}")
+print(f"F1 Score: {f1}")
 
 
 #######################

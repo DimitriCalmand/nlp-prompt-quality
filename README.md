@@ -2,14 +2,14 @@
 
 
 # Linear Regression
-The `linear_regression.py` file performs linear regression on a dataset. It uses the pandas library to load and preprocess the data, and the scikit-learn library to train and evaluate a logistic regression model. The script includes the following main steps:  
+The `logistic_regression.py` file performs logistic regression on a dataset. It uses the pandas library to load and preprocess the data, and the scikit-learn library to train and evaluate a logistic regression model. The script includes the following main steps:  
 
 ## How to Use
 **Set Parameters:**  
 Adjust the `TOKENIZER_TYPE` and `LABEL_TYPE` variables to choose the tokenization method and label type.
 
 **Run the Script:**  
-Execute the script from the command line or an IDE to load the dataset, train the model, evaluate it, and make a prediction on a sample prompt.
+Execute the script from the command line or an IDE to load the dataset, train the model, evaluate it, and make a prediction on a sample `PROMPT`.
 
 **View Results:**  
 The script will print the dataset information, model evaluation metrics, and the prediction for the sample prompt.
