@@ -86,7 +86,7 @@ def train_model():
     model.add(Dropout(0.2))
     model.add(Dense(num_classes, activation='softmax'))
     
-    model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+    model.compile(loss='mean_absolute_error', optimizer='adam', metrics=['accuracy'])
     
     # Train and evaluate model
     model.fit(X_train_padded, y_train, epochs=50, batch_size=32, validation_split=0.1)
