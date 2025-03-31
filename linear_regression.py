@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
-from sklearn.model_selection import train_test_splitcd
+from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
@@ -17,7 +17,8 @@ PROMPT = """I love bananas, can you make a recipe out of it ?"""
 ### DATA PREPROCESSING ###
 ##########################
 
-df = pd.read_parquet("dataset.parquet")
+df = pd.read_parquet("hf://datasets/data-is-better-together/10k_prompts_ranked/data/train-00000-of-00001.parquet")
+
 
 #df = df[df["num_responses"] > 1]
 df = df[df["agreement_ratio"] > 0.4]
