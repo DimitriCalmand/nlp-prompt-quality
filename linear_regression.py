@@ -5,7 +5,11 @@ from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
 from sklearn.model_selection import train_test_split
+<<<<<<< HEAD
+from sklearn.linear_model import LogisticRegression
+=======
 from sklearn.linear_model import LinearRegression
+>>>>>>> 4ed6e0c42073e2792af7f487322a4b642cc86e9b
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.metrics import mean_squared_error, r2_score
 
@@ -38,7 +42,8 @@ Can you suggest any modifications to the recipe?"""
 ### DATA PREPROCESSING ###
 ##########################
 
-df = pd.read_parquet("dataset.parquet")
+df = pd.read_parquet("hf://datasets/data-is-better-together/10k_prompts_ranked/data/train-00000-of-00001.parquet")
+
 
 #df = df[df["num_responses"] > 1]
 df = df[df["agreement_ratio"] > 0.4]
