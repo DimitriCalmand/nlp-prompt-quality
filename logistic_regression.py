@@ -17,7 +17,7 @@ PROMPT = """I love bananas, can you make a recipe out of it ?"""
 ### DATA PREPROCESSING ###
 ##########################
 
-df = pd.read_parquet("dataset.parquet")
+df = pd.read_parquet("hf://datasets/data-is-better-together/10k_prompts_ranked/data/train-00000-of-00001.parquet")
 
 #df = df[df["num_responses"] > 1]
 df = df[df["agreement_ratio"] > 0.4]

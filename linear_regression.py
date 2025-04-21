@@ -5,11 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 
 from sklearn.model_selection import train_test_split
-<<<<<<< HEAD
-from sklearn.linear_model import LogisticRegression
-=======
 from sklearn.linear_model import LinearRegression
->>>>>>> 4ed6e0c42073e2792af7f487322a4b642cc86e9b
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.metrics import mean_squared_error, r2_score
 
