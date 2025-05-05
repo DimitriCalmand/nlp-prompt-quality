@@ -1,0 +1,1001 @@
+﻿Numero,Prompt,Longueur,Complexite,Theme
+1,Est-ce que le Soleil est une étoile ?,moyen,1,science
+2,Est-ce que la Terre est plate ?,court,1,science
+3,Est-ce que l’eau bout à 100°C ?,court,1,science
+4,Est-ce que la Lune émet de la lumière ?,moyen,2,science
+5,Est-ce que Napoléon a été empereur des Français ?,moyen,2,histoire
+6,Est-ce que la Seconde Guerre mondiale s’est terminée en 1945 ?,moyen,1,histoire
+7,Est-ce que Beethoven était un peintre ?,court,2,art
+8,Est-ce que “La Joconde” est un tableau de Léonard de Vinci ?,moyen,2,art
+9,Est-ce que Socrate a écrit des livres ?,moyen,3,philosophie
+10,Est-ce que “Cogito ergo sum” est une citation de Descartes ?,moyen,2,philosophie
+11,Est-ce que l’iPhone est sorti avant l’an 2000 ?,moyen,2,technologie
+12,Est-ce que l’électricité a été maîtrisée au 19ème siècle ?,long,3,science
+13,Est-ce que le cerveau humain possède environ 100 milliards de neurones ?,long,3,psychologie
+14,Est-ce que le QI moyen est par définition 100 ?,moyen,2,psychologie
+15,Est-ce que le marathon fait environ 42 km ?,moyen,2,sport
+16,Est-ce que le football se joue à 11 joueurs ?,court,1,sport
+17,Est-ce que la tomate est un fruit ?,court,1,gastronomie
+18,Est-ce que le sushi est un plat d’origine japonaise ?,court,1,gastronomie
+19,Est-ce que les baleines sont des mammifères ?,court,1,nature
+20,Est-ce que certaines plantes sont carnivores ?,court,1,nature
+21,Est-ce que l’homme a déjà marché sur Mars ?,court,1,futurisme
+22,Est-ce que l’intelligence artificielle surpassera un jour l’intelligence humaine ?,long,4,futurisme
+23,Est-ce que la majorité légale est à 18 ans en France ?,court,1,société
+24,Est-ce que le vote est obligatoire en France ?,court,2,société
+25,Est-ce que l’ADN se trouve dans le noyau des cellules ?,moyen,2,science
+26,Est-ce que les dinosaures et les humains ont vécu à la même époque ?,long,1,science
+27,Est-ce que la vitesse du son est plus rapide que celle de la lumière ?,long,1,science
+28,Est-ce que l’eau de mer est potable ?,court,1,nature
+29,Est-ce que la peine de mort est abolie en France ?,court,2,société
+30,Est-ce que Pluton est toujours considéré comme une planète ?,court,2,science
+31,Est-ce que la lumière blanche contient toutes les couleurs du spectre ?,long,3,science
+32,Est-ce que 1 kg de plumes pèse autant qu’1 kg de plomb ?,court,1,science
+33,Est-ce que le corps humain est composé d’environ 60% d’eau ?,court,2,science
+34,Est-ce que le code binaire n’utilise que les chiffres 0 et 1 ?,court,1,technologie
+35,Est-ce que l’abeille meurt après avoir piqué ?,court,2,nature
+36,Est-ce que les étoiles que nous voyons dans le ciel sont des soleils ?,court,2,science
+37,Est-ce que le Mont Everest est la plus haute montagne du monde ?,court,1,nature
+38,Est-ce que la Terre effectue une rotation en 24 heures ?,court,1,science
+39,Est-ce que le Titanic a coulé lors de son voyage inaugural ?,court,2,histoire
+40,Est-ce que le fluor est un métal ?,court,4,science
+41,Est-ce que la Muraille de Chine a été construite au XXe siècle ?,long,3,histoire
+42,Qui a écrit “Les Misérables” ?,court,2,art
+43,Qui a peint “Guernica” ?,court,3,art
+44,Qui a inventé l’imprimerie ?,court,2,histoire
+45,Qui a découvert la pénicilline ?,court,3,science
+46,Qui a composé la “Symphonie du Nouveau Monde” ?,long,4,art
+47,Qui a été la première femme à aller dans l’espace ?,long,3,histoire
+48,Qui a composé l’opéra “La Flûte enchantée” ?,long,2,art
+49,Qui a construit la Tour Eiffel ?,long,2,histoire
+50,Qui a découvert l’Amérique en 1492 ?,long,1,histoire
+51,Qui est l’auteur de la série Harry Potter ?,long,1,art
+52,Qui a peint “La Nuit étoilée” ?,long,2,art
+53,Quel est le symbole chimique du sodium ?,moyen,3,science
+54,Quel est le plus grand océan sur Terre ?,moyen,2,nature
+55,Quelle est la langue la plus parlée au monde ?,moyen,2,société
+56,Quelle est la capitale de l’Australie ?,moyen,3,société
+57,Quelle planète est la plus proche du Soleil ?,moyen,2,science
+58,Quel élément chimique a pour symbole Au ?,moyen,3,science
+59,Quelle est l’année de la chute de Constantinople ?,long,4,histoire
+60,Quel est l’élément le plus abondant dans l’univers ?,long,3,science
+61,Quelle est la distance moyenne entre la Terre et la Lune ?,très long,4,science
+62,Quelle ville est surnommée “la Ville Lumière” ?,moyen,1,société
+63,Quelle est la formule chimique de l’eau ?,court,1,science
+64,Quelle est la monnaie du Japon ?,court,2,société
+65,Quelle est la vitesse de la lumière dans le vide (en m/s) ?,long,4,science
+66,Quel est le bâtiment le plus haut du monde ?,long,3,société
+67,Quelle est la substance naturelle la plus dure sur Terre ?,moyen,2,science
+68,Quel est l’ingrédient principal du guacamole ?,long,1,gastronomie
+69,Quelle est la capitale du Canada ?,moyen,2,société
+70,Quel est le plus grand désert du monde ?,moyen,2,nature
+71,Combien y a-t-il de jours en février lors d’une année bissextile ?,long,1,société
+72,Combien de joueurs compte une équipe de football sur le terrain ?,long,1,sport
+73,Combien de pattes une araignée possède-t-elle ?,long,1,nature
+74,Combien d’États y a-t-il aux États-Unis ?,long,2,société
+75,Combien de planètes compte le système solaire ?,long,2,science
+76,Combien d’os le corps humain possède-t-il ?,long,3,science
+77,Combien de symphonies Beethoven a-t-il composées ?,long,3,art
+78,Combien de continents y a-t-il sur Terre ?,long,2,nature
+79,Combien d’années dure une décennie ?,moyen,1,société
+80,Combien font 2 + 2 ?,moyen,1,science
+81,Combien de couleurs y a-t-il dans un arc-en-ciel ?,long,1,nature
+82,Combien d’heures compte une journée ?,moyen,1,science
+83,Combien de zéros y a-t-il dans un milliard ?,long,3,science
+84,Combien de lettres compte l’alphabet français ?,long,1,société
+85,Combien de joueurs composent une équipe de baseball (sur le terrain) ?,très long,4,sport
+86,Combien de symphonies Mozart a-t-il composées ?,très long,5,art
+87,Quand l’homme a-t-il marché sur la Lune pour la première fois ?,long,2,histoire
+88,Quand a eu lieu la prise de la Bastille ?,long,2,histoire
+89,En quelle année Christophe Colomb a-t-il découvert l’Amérique ?,long,2,histoire
+90,En quelle année Napoléon a-t-il perdu la bataille de Waterloo ?,long,3,histoire
+91,En quelle année les Jeux Olympiques modernes ont-ils commencé ?,très long,3,sport
+92,Quand la Seconde Guerre mondiale a-t-elle commencé ?,moyen,2,histoire
+93,En quelle année l’URSS s’est-elle effondrée ?,moyen,3,histoire
+94,En quelle année l’URSS a-t-elle lancé Spoutnik 1 ?,très long,4,histoire
+95,Quand la Première Guerre mondiale s’est-elle terminée ?,long,2,histoire
+96,En quelle année Neil Armstrong a-t-il marché sur la Lune ?,long,2,histoire
+97,Quand le mur de Berlin est-il tombé ?,long,2,histoire
+98,En quelle année l’euro a-t-il été mis en circulation ?,long,2,société
+99,En quelle année la Déclaration d’indépendance des États-Unis a-t-elle été signée ?,très long,2,histoire
+100,En quelle année la Première Guerre mondiale a-t-elle commencé ?,long,2,histoire
+101,Doit-on toujours dire la vérité ?,court,2,philosophie
+102,Doit-on craindre l’intelligence artificielle ?,moyen,3,futurisme
+103,Faut-il manger 5 fruits et légumes par jour ?,moyen,1,société
+104,Faut-il censurer Internet ?,court,3,société
+105,Doit-on légaliser le cannabis ?,court,2,société
+106,Peut-on être moral sans religion ?,court,4,philosophie
+107,Peut-on voyager plus vite que la lumière ?,long,4,futurisme
+108,Peut-on arrêter le vieillissement ?,long,4,futurisme
+109,Faut-il toujours obéir aux lois ?,long,4,philosophie
+110,Doit-on cloner l’être humain ?,moyen,5,philosophie
+111,Faut-il instaurer un revenu universel ?,long,4,société
+112,Faut-il interdire les zoos ?,court,3,société
+113,Doit-on privilégier le train à l’avion pour les courts trajets ?,très long,3,société
+114,Faut-il accorder le droit de vote à 16 ans ?,long,3,société
+115,Doit-on apprendre à coder dès l’école primaire ?,long,2,technologie
+116,Y a-t-il de la vie sur Mars ?,moyen,3,futurisme
+117,Y a-t-il un lien entre alimentation et santé mentale ?,long,4,psychologie
+118,Y a-t-il une vie après la mort ?,moyen,5,philosophie
+119,Y a-t-il plus de 8 milliards d’humains sur Terre ?,long,1,société
+120,Y a-t-il des nombres premiers pairs autres que 2 ?,moyen,2,science
+121,Y a-t-il un nombre infini de nombres premiers ?,long,4,science
+122,Y a-t-il des limites à l’univers ?,long,5,philosophie
+123,Y a-t-il une huitième couleur dans l’arc-en-ciel ?,long,1,nature
+124,Vrai ou Faux : Le feu a besoin d’oxygène pour brûler.,moyen,1,science
+125,Vrai ou Faux : Les chauves-souris sont aveugles.,moyen,2,nature
+126,Vrai ou Faux : La muraille de Chine est visible depuis la Lune.,long,2,histoire
+127,Vrai ou Faux : Un octet vaut 8 bits.,moyen,2,technologie
+128,Vrai ou Faux : La vache est un mammifère.,court,1,nature
+129,Vrai ou Faux : La capitale de l’Espagne est Barcelone.,long,1,société
+130,Vrai ou Faux : 0 est un nombre pair.,court,3,science
+131,Vrai ou Faux : Le sang humain est bleu à l’intérieur du corps.,long,2,science
+132,Vrai ou Faux : Les éclairs ne frappent jamais deux fois au même endroit.,très long,2,nature
+133,Vrai ou Faux : Un homme a une côte de moins qu’une femme.,long,2,société
+134,Vrai ou Faux : Les diamants se forment à partir de charbon.,long,3,science
+135,2 + 2 = ?,très court,1,science
+136,5 – 3 = ?,très court,1,science
+137,3 × 3 = ?,très court,1,science
+138,9 − 6 = ?,très court,1,science
+139,10 / 2 = ?,très court,1,science
+140,8 × 0 = ?,très court,1,science
+141,12 × 12 = ?,court,2,science
+142,10^2 = ?,court,2,science
+143,15 / 3 = ?,court,1,science
+144,7 + 8 = ?,court,1,science
+145,20 - 17 = ?,court,1,science
+146,√16 = ?,très court,1,science
+147,7 × 7 = ?,très court,1,science
+148,11 + 22 = ?,très court,1,science
+149,10 / 4 = ?,très court,2,science
+150,5^3 = ?,très court,2,science
+151,20 % de 50 = ?,court,2,science
+152,"Mercure, Vénus, Terre, …, Jupiter, Saturne, Uranus, Neptune.",moyen,3,science
+153,"rouge, orange, jaune, …, bleu, indigo, violet.",moyen,3,nature
+154,"la vue, l’ouïe, …, …, le toucher.",moyen,2,psychologie
+155,"printemps, été, automne, …",court,1,nature
+156,"Athos, Porthos, …",court,4,art
+157,"dorique, ionique, …",court,5,art
+158,"Louis XIII, …, Louis XV, Louis XVI.",court,3,histoire
+159,"bleu, …, rouge (couleurs du drapeau français).",court,1,société
+160,"do, ré, mi, fa, sol, la, …",long,2,art
+161,"Lundi, mardi, mercredi, …, vendredi, samedi, dimanche.",long,1,société
+162,"I, II, III, …, V",court,1,histoire
+163,"Citez trois planètes du système solaire : 1) …, 2) …, 3) …",moyen,2,science
+164,"Citez trois inventions du XXème siècle : 1) …, 2) …, 3) …",long,3,histoire
+165,"Nommez trois peintres célèbres : 1) …, 2) …, 3) …",moyen,2,art
+166,"Donnez trois exemples de valeurs philosophiques : 1) …, 2) …, 3) …",long,3,philosophie
+167,"Indiquez trois langues officielles de l’ONU : 1) …, 2) …, 3) …",long,4,société
+168,"Listez trois émotions humaines de base : 1) …, 2) …, 3) …",long,2,psychologie
+169,"Citez trois épreuves d’un décathlon : 1) …, 2) …, 3) …",long,4,sport
+170,"Donnez trois fromages français : 1) …, 2) …, 3) …",long,3,gastronomie
+171,"Listez trois animaux menacés d’extinction : 1) …, 2) …, 3) …",long,3,nature
+172,"Citez trois technologies de communication : 1) …, 2) …, 3) …",long,2,technologie
+173,"Donnez trois améliorations que vous imaginez pour les voitures du futur : 1) …, 2) …, 3) …",très long,5,futurisme
+174,"Citez trois problèmes sociaux actuels : 1) …, 2) …, 3) …",long,4,société
+175,"Citez trois scientifiques célèbres : 1) …, 2) …, 3) …",long,2,science
+176,"Citez trois empereurs romains : 1) …, 2) …, 3) …",long,4,histoire
+177,"Citez trois instruments de musique classique : 1) …, 2) …, 3) …",long,2,art
+178,"Citez trois philosophes des Lumières : 1) …, 2) …, 3) …",long,4,philosophie
+179,"Citez trois langages de programmation : 1) …, 2) …, 3) …",long,2,technologie
+180,"Citez trois troubles psychologiques courants : 1) …, 2) …, 3) …",long,3,psychologie
+181,"Citez trois sports olympiques : 1) …, 2) …, 3) …",long,1,sport
+182,"Citez trois épices de cuisine : 1) …, 2) …, 3) …",long,1,gastronomie
+183,"Citez trois phénomènes météorologiques : 1) …, 2) …, 3) …",long,2,nature
+184,"Citez trois planètes que l’humanité pourrait coloniser dans le futur : 1) …, 2) …, 3) …",très long,5,futurisme
+185,"Citez trois droits de l’Homme fondamentaux : 1) …, 2) …, 3) …",long,3,société
+186,"2, 4, 6, …, 10 (complétez)",moyen,1,science
+187,"1, 1, 2, 3, 5, …, 13 (complétez)",long,4,science
+188,"1, 4, 9, …, 25 (complétez)",long,3,science
+189,"5, 10, 15, …, 25 (complétez)",long,2,science
+190,"100, 90, 80, …, 60 (complétez)",long,2,science
+191,"A, B, C, …, E (complétez)",long,1,société
+192,"Janvier, février, mars, …, mai (complétez)",long,1,société
+193,"II, III, IV, …, VI (complétez)",long,1,histoire
+194,"Donnez deux exemples d’énergies renouvelables : 1) …, 2) …",long,1,science
+195,"Citez deux philosophes grecs anciens : 1) …, 2) …",long,3,philosophie
+196,"Citez quatre pays d’Europe : 1) …, 2) …, 3) …, 4) …",très long,2,société
+197,"Citez quatre langues romanes : 1) …, 2) …, 3) …, 4) …",très long,2,société
+198,"Citez trois capitales européennes : 1) Paris, 2) Berlin, 3) …",long,2,société
+199,"Citez trois océans du globe : 1) Pacifique, 2) Atlantique, 3) …",long,2,nature
+200,"Citez trois figures de la Révolution française : 1) Robespierre, 2) Danton, 3) …",très long,4,histoire
+201,"Citez trois couleurs primaires : 1) …, 2) …, 3) …",long,1,art
+202,"Citez trois moyens de transport : 1) …, 2) …, 3) …",long,1,société
+203,"Citez trois mers ou océans : 1) …, 2) …, 3) …",long,2,nature
+204,"Citez trois langues officielles de la Suisse : 1) Allemand, 2) Français, 3) …",long,3,société
+205,"Citez cinq pays d’Afrique : 1) …, 2) …, 3) …, 4) …, 5) …",long,3,société
+206,"Donnez cinq bonnes habitudes pour rester en bonne santé : 1) …, 2) …, 3) …, 4) …, 5) …",très long,2,psychologie
+207,"Citez cinq œuvres de William Shakespeare : 1) …, 2) …, 3) …, 4) …, 5) …",très long,4,art
+208,"Listez cinq planètes ou corps célestes pouvant potentiellement abriter la vie : 1) …, 2) …, 3) …, 4) …, 5) …",très long,5,futurisme
+209,"Donnez cinq synonymes du mot ‘beau’ : 1) …, 2) …, 3) …, 4) …, 5) …",très long,2,art
+210,"Citez trois éléments chimiques : 1) …, 2) …, 3) …",long,2,science
+211,"Citez trois civilisations anciennes : 1) …, 2) …, 3) …",long,3,histoire
+212,"Citez trois chefs-d’œuvre de la peinture : 1) …, 2) …, 3) …",long,4,art
+213,"Citez trois questions existentielles que l’on peut se poser : 1) …, 2) …, 3) …",très long,5,philosophie
+214,"Citez trois réseaux sociaux en ligne : 1) …, 2) …, 3) …",long,1,technologie
+215,"Citez trois besoins humains fondamentaux : 1) …, 2) …, 3) …",long,2,psychologie
+216,"Citez trois légendes du sport : 1) …, 2) …, 3) …",long,3,sport
+217,"Citez trois spécialités culinaires japonaises : 1) …, 2) …, 3) …",long,2,gastronomie
+218,"Citez trois catastrophes naturelles : 1) …, 2) …, 3) …",long,2,nature
+219,"Citez trois inventions futuristes imaginaires : 1) …, 2) …, 3) …",très long,5,futurisme
+220,"Citez trois organisations internationales : 1) …, 2) …, 3) …",long,3,société
+221,"Animaux de compagnie communs : 1) Chien, 2) Chat, 3) …",long,1,nature
+222,"Instruments à cordes : 1) Violon, 2) Guitare, 3) …",long,2,art
+223,"Moyens de transport aériens : 1) Avion, 2) Hélicoptère, 3) …",long,2,technologie
+224,"Pays d’Amérique du Nord : 1) Canada, 2) États-Unis, 3) …",long,2,société
+225,"Figures mythologiques grecques : 1) Zeus, 2) Héra, 3) …",long,4,art
+226,"Régimes politiques : 1) Démocratie, 2) Monarchie, 3) …",long,2,société
+227,"Genres littéraires : 1) Roman, 2) Poésie, 3) …",long,2,art
+228,"Outils de jardinage : 1) Pelle, 2) Râteau, 3) …",long,2,nature
+229,Combien de mois de l’année comportent 28 jours ?,moyen,2,société
+230,"Le père de Jean a quatre fils : Paul, Pierre, Jacques et … ? Quel est le nom du quatrième fils ?",très long,3,société
+231,Qu’est-ce qui se brise dès qu’on le nomme ?,court,4,philosophie
+232,"Qu’est-ce qui tombe sans jamais se casser, et qu’est-ce qui se casse sans jamais tomber ?",long,5,nature
+233,"Si 3 chats attrapent 3 souris en 3 minutes, combien de chats faut-il pour attraper 100 souris en 100 minutes ?",très long,3,science
+234,"Dans un lac, des nénuphars doublent de surface chaque jour et recouvrent tout le lac en 20 jours. En combien de jours en recouvrent-ils la moitié ?",très long,4,science
+235,Un éléphant pèse 5 000 kg et tient sur une patte. Quel est le poids supporté par cette patte ?,très long,2,nature
+236,"Quel nombre manque à la suite : 1, 1, 2, 3, 5, 8, … ?",long,3,science
+237,"Si on double un nombre et qu’on ajoute 4, on obtient 10. Quel est ce nombre ?",long,2,science
+238,"En écrivant tous les nombres de 1 à 99, combien de fois écrit-on le chiffre 9 ?",très long,5,science
+239,"Un berger doit faire traverser une rivière à un loup, une chèvre et un chou. Il ne peut transporter qu’un passager à la fois et ne peut laisser le loup seul avec la chèvre ni la chèvre seule avec le chou. Comment doit-il s’y prendre ?",très long,5,nature
+240,"Dans une course, si vous doublez le deuxième, en quelle position arrivez-vous ?",long,2,sport
+241,Un œuf cuit en 5 minutes. Combien de temps pour cuire 5 œufs ?,court,1,gastronomie
+242,"Qu’est-ce qui a quatre pattes le matin, deux pattes à midi, et trois pattes le soir ?",long,4,philosophie
+243,"Quel nombre manque dans la suite : 5, 6, 7, __, 9 ?",court,1,science
+244,"Quel nombre manque dans la suite : 1, 2, 3, __, 5 ?",court,1,science
+245,"Quel nombre manque dans la suite : 3, 8, 13, __, 23 ?",moyen,2,science
+246,"Quel nombre manque dans la suite : 5, 10, 15, __, 25 ?",court,1,science
+247,"Quel nombre manque dans la suite : 7, 11, 15, __, 23 ?",court,2,science
+248,"Quel nombre manque dans la suite : 4, 8, 12, __, 20 ?",court,1,science
+249,"Quel nombre manque dans la suite : 9, 7, 5, __, 1 ?",court,2,science
+250,"Quel nombre manque dans la suite : 2, 5, 8, __, 14 ?",court,1,science
+251,"Quel nombre manque dans la suite : 6, 12, 18, __, 30 ?",court,1,science
+252,"Quel nombre manque dans la suite : 10, 7, 4, __, -2 ?",court,2,science
+253,"Parmi ces animaux, quel est l’intrus : chat, chien, lapin, serpent ?",long,1,nature
+254,"Quel est l’intrus : bleu, carré, vert, rouge ?",long,1,art
+255,"Parmi ces mots, quel est l’intrus : lundi, mars, mercredi, jeudi ?",long,1,société
+256,"Quel nombre manque dans la suite : 1, 4, 7, …, 13 ?",moyen,2,science
+257,"Quel nombre manque dans la suite : 10, 12, 14, …, 18 ?",moyen,2,science
+258,"Quel nombre manque dans la suite : 8, 12, 16, …, 24 ?",moyen,2,science
+259,"Quel nombre manque dans la suite : 5, 6, …, 8, 9 ?",moyen,1,science
+260,"Quel nombre manque dans la suite : 6, 9, 12, …, 18 ?",moyen,1,science
+261,"Complétez le dialogue suivant : A : Bonjour, comment vas-tu ? B : …",moyen,1,société
+262,Imaginez la suite de ce dialogue : Enseignant : Avez-vous compris le sujet ? Élève : …,long,2,société
+263,Complétez le dialogue : Robot : Quelle est ma mission ? Ingénieur : …,moyen,3,technologie
+264,Écrivez un dialogue entre un philosophe antique et un scientifique moderne sur la nature de l’univers.,long,5,philosophie
+265,Imaginez un dialogue dans lequel un touriste échange avec un habitant local sur les coutumes de la région.,long,3,société
+266,Complétez le dialogue : Mère : Tu rentres tard ce soir. Fils : …,moyen,2,société
+267,Imaginez la suite du dialogue : Client : Ce plat est délicieux ! Serveur : …,moyen,2,gastronomie
+268,Complétez : Policier : Vous rouliez à 80 dans une zone à 50. Automobiliste : …,long,3,société
+269,Poursuivez ce dialogue imaginaire entre un chat et un chien qui discutent de la météo.,long,3,nature
+270,Écrivez la fin de ce dialogue : Docteur : Je vous annonce une excellente nouvelle. Patient : …,long,2,société
+271,Imaginez que vous vous réveillez en l’an 2100. Décrivez à quoi ressemble la journée type dans ce futur.,long,4,futurisme
+272,Vous êtes un explorateur au fond de l’océan et vous trouvez une créature inconnue. Racontez votre découverte.,long,4,nature
+273,"Décrivez un monde où les rôles sociaux sont inversés (par exemple, les enfants font la loi et les adultes vont à l’école).",long,3,société
+274,Imaginez une journée dans la peau de Léonard de Vinci travaillant sur une invention.,long,3,histoire
+275,Vous êtes un personnage de jeu vidéo entré dans la vraie vie. Décrivez votre expérience.,long,3,technologie
+276,Décrivez un repas fantastique où chaque plat apporte un pouvoir magique différent à celui qui le mange.,long,4,gastronomie
+277,Racontez l’histoire d’un athlète qui participe à des Jeux Olympiques intergalactiques.,long,4,sport
+278,Imaginez que vous pouvez communiquer avec les arbres de la forêt. Décrivez la conversation.,long,4,nature
+279,Vous découvrez un passage secret dans un monument historique célèbre. Racontez ce que vous y trouvez.,long,3,histoire
+280,Le Louvre prend vie la nuit : les peintures discutent entre elles. Écrivez cette scène.,long,5,art
+281,Un étudiant reçoit une lettre écrite par lui-même dans le futur. Racontez le contenu de la lettre.,long,4,futurisme
+282,Décrivez le fonctionnement d’une horloge mécanique de manière simple.,long,2,science
+283,Décrivez un paysage de montagne un matin d’hiver.,long,2,nature
+284,Faites la description d’un tableau imaginaire sur le thème de l’espoir.,long,3,art
+285,Décrivez votre plat préféré en détail comme si vous l’expliquiez à quelqu’un qui ne l’a jamais goûté.,très long,2,gastronomie
+286,Dépeignez le portrait d’un héros de roman imaginaire.,long,3,art
+287,Décrivez la sensation de voler en quelques phrases évocatrices.,long,3,psychologie
+288,Décrivez la ville de Paris au Moyen Âge comme si vous y étiez.,long,4,histoire
+289,Rédigez un poème sur l’automne et la mélancolie.,moyen,3,art
+290,Écrivez une chanson humoristique à propos des mathématiques.,long,4,art
+291,Composez un court texte où chaque mot commence par la même lettre.,long,5,art
+292,Inventez une nouvelle fable avec des animaux qui enseigne une leçon de vie.,long,3,philosophie
+293,Imaginez un super-héros dont le pouvoir est complètement inutile. Décrivez-le.,long,2,société
+294,Vous êtes invité à un concours de récits ultra-courts. Écrivez une histoire en une phrase.,long,4,art
+295,Rédigez un haïku (poème japonais de 3 vers) sur le thème de la ville.,long,3,art
+296,Inventez une nouvelle énigme avec sa réponse.,court,5,logique
+297,Que pensez-vous de la pluie ?,court,1,science
+298,Comment fonctionne un aimant ?,court,1,science
+299,Que pensez-vous de la gravité ?,court,1,science
+300,Que pensez-vous de la Lune ?,court,1,science
+301,Comment fonctionne l’eau ?,court,1,science
+302,Quel est le rôle du Soleil ?,moyen,1,science
+303,Que pensez-vous du corps humain ?,moyen,1,science
+304,Quel est le rôle d’une plante ?,moyen,1,science
+305,Comment fonctionne une ampoule ?,moyen,1,science
+306,Que pensez-vous d’un volcan ?,moyen,1,science
+307,Comment fonctionne un arc-en-ciel ?,moyen,1,science
+308,Quelle est l’importance des étoiles ?,moyen,1,science
+309,Quel est le rôle de la neige ?,moyen,1,science
+310,Quelle est l’importance de la chaleur ?,moyen,1,science
+311,Que pensez-vous du son ?,court,1,science
+312,Comment fonctionne la mécanique quantique ?,long,5,science
+313,Quel est le rôle de l’ADN ?,court,5,science
+314,Que pensez-vous de la théorie de l’évolution ?,long,5,science
+315,Quelle est l’importance de la relativité générale ?,très long,5,science
+316,Quelles sont les conséquences de la fusion nucléaire ?,très long,5,science
+317,Que pensez-vous du changement climatique ?,long,5,science
+318,Quelle est l’importance de la théorie des cordes ?,long,5,science
+319,Quel est le rôle de la nanotechnologie ?,long,5,science
+320,Quelle est l’importance de la matière noire ?,long,5,science
+321,Que pensez-vous de la Révolution française ?,long,1,histoire
+322,Que pensez-vous de Napoléon Bonaparte ?,long,1,histoire
+323,Quel est le rôle de la Seconde Guerre mondiale ?,long,1,histoire
+324,Quelle est l’importance de l’Empire romain ?,long,1,histoire
+325,Que pensez-vous des pyramides d’Égypte ?,long,1,histoire
+326,Quel est le rôle de la Renaissance ?,long,1,histoire
+327,Que pensez-vous de la chute du mur de Berlin ?,long,1,histoire
+328,Quelle est l’importance de la découverte de l’Amérique ?,long,1,histoire
+329,Quel est le rôle du Moyen Âge ?,long,1,histoire
+330,Quelle est l’importance de la révolution industrielle ?,très long,1,histoire
+331,Que pensez-vous de Marie Curie ?,long,1,histoire
+332,Que pensez-vous de Louis XIV ?,long,1,histoire
+333,Quelle est l’importance de la guerre froide ?,long,1,histoire
+334,Quelle est l’importance du droit de vote des femmes ?,très long,1,histoire
+335,Quelles sont les causes de la Première Guerre mondiale ?,long,5,histoire
+336,Quelles sont les causes de l’impact de la colonisation ?,long,5,histoire
+337,Quelles sont les causes de la chute de l’Empire romain ?,très long,5,histoire
+338,Quelles sont les causes de la guerre de Cent Ans ?,long,5,histoire
+339,Quelles sont les causes des philosophes des Lumières ?,long,5,histoire
+340,Quelle est l’importance de la réforme protestante ?,long,5,histoire
+341,Quelles sont les causes de la décolonisation ?,long,5,histoire
+342,Quelles sont les causes des traités de Westphalie ?,très long,5,histoire
+343,Quelle est l’importance de la route de la soie ?,long,5,histoire
+344,Quel est le rôle de l’empire ottoman ?,court,5,histoire
+345,Quelle est l’importance de la guerre du Vietnam ?,long,5,histoire
+346,Que pensez-vous de la Joconde ?,court,1,art
+347,Que pensez-vous de Vincent van Gogh ?,long,1,art
+348,Quelle est l’importance de la musique classique ?,long,1,art
+349,Que pensez-vous de la Tour Eiffel ?,long,1,art
+350,Quelle est l’importance du Louvre ?,long,1,art
+351,Quel est le rôle de la peinture à l’huile ?,long,1,art
+352,Quel est le rôle de la sculpture sur marbre ?,long,1,art
+353,Que pensez-vous du ballet ?,court,1,art
+354,Que pensez-vous du cinéma muet ?,long,1,art
+355,Que pensez-vous du théâtre classique ?,long,1,art
+356,Que pensez-vous de Pablo Picasso ?,long,1,art
+357,Quelle est l’importance du surréalisme ?,moyen,1,art
+358,Comment fonctionne le surréalisme ?,court,5,art
+359,Quel est le rôle du cubisme ?,court,5,art
+360,Quelle est l’importance de l’art abstrait ?,court,5,art
+361,Quelle est l’importance de la perspective en peinture ?,très long,5,art
+362,Quelle est l’importance de la critique d’art ?,long,5,art
+363,Quelle est l’importance de l’architecture gothique ?,long,5,art
+364,Quel est le rôle de la musique baroque ?,moyen,5,art
+365,Quelle est l’importance de la symphonie de Beethoven ?,long,5,art
+366,Quelle est l’importance de la littérature postmoderne ?,long,5,art
+367,Quelle est l’importance de l’impressionnisme ?,long,5,art
+368,Quel est le rôle du design graphique ?,long,5,art
+369,Que pensez-vous de la justice ?,court,1,philosophie
+370,Que pensez-vous de la liberté ?,court,1,philosophie
+371,Que pensez-vous du bonheur ?,court,1,philosophie
+372,Quel est le rôle de la morale ?,court,1,philosophie
+373,Que pensez-vous de Socrate ?,court,1,philosophie
+374,Que pensez-vous de Platon ?,court,1,philosophie
+375,Quel est le rôle du doute ?,court,1,philosophie
+376,Quelle est l’importance de l’amitié ?,long,1,philosophie
+377,Que pensez-vous du courage ?,court,1,philosophie
+378,Quelle est l’importance de la vérité ?,long,1,philosophie
+379,Quel est le rôle du temps ?,court,1,philosophie
+380,Que pensez-vous de la sagesse ?,court,1,philosophie
+381,Que pensez-vous de la mort ?,court,1,philosophie
+382,Quel est le rôle de la religion ?,court,1,philosophie
+383,Quelle est l’importance de l’existentialisme ?,long,5,philosophie
+384,Quelle est l’importance du nihilisme ?,long,5,philosophie
+385,Quel est le rôle du dualisme cartésien ?,long,5,philosophie
+386,Quelle est l’importance de la métaphysique ?,long,5,philosophie
+387,Quelle est l’importance de la théorie de la connaissance ?,très long,5,philosophie
+388,Quel est le rôle de l’éthique utilitariste ?,court,5,philosophie
+389,Quelle est l’importance de la liberté de la volonté ?,long,5,philosophie
+390,Quelle est l’importance de l’absurde chez Camus ?,long,5,philosophie
+391,Quelle est l’importance du concept d’inconscient chez Freud ?,moyen,5,philosophie
+392,Quel est le rôle du matérialisme dialectique ?,long,5,philosophie
+393,Quelle est l’importance de l’éthique de Kant ?,long,5,philosophie
+394,Que pensez-vous du smartphone ?,court,1,technologie
+395,Que pensez-vous d’Internet ?,court,1,technologie
+396,Comment fonctionne l’électricité ?,long,1,technologie
+397,Que pensez-vous d’un ordinateur ?,long,1,technologie
+398,Quel est le rôle de la voiture électrique ?,long,1,technologie
+399,Que pensez-vous de la télévision ?,long,1,technologie
+400,Quel est le rôle du GPS ?,court,1,technologie
+401,Quelle est l’importance de l’énergie solaire ?,long,1,technologie
+402,Que pensez-vous d’une caméra ?,court,1,technologie
+403,Comment fonctionne la robotique ?,long,1,technologie
+404,Quelles sont les conséquences de la blockchain ?,long,5,technologie
+405,Quelle est l’importance des algorithmes de machine learning ?,très long,5,technologie
+406,Quelles sont les conséquences de l’informatique quantique ?,long,5,technologie
+407,Quelle est l’importance de la cybersécurité ?,long,5,technologie
+408,Quelles sont les conséquences du transhumanisme ?,très long,5,technologie
+409,Quelle est l’importance de l’automatisation industrielle ?,long,5,technologie
+410,Quelles sont les conséquences de l’impression 3D ?,long,5,technologie
+411,Quelle est l’importance des nanotechnologies ?,long,5,technologie
+412,Que pensez-vous des rêves ?,court,1,psychologie
+413,Que pensez-vous de la mémoire ?,court,1,psychologie
+414,Quel est le rôle du stress ?,court,1,psychologie
+415,Quelle est l’importance des émotions ?,long,1,psychologie
+416,Que pensez-vous de l’enfance ?,court,1,psychologie
+417,Que pensez-vous de la motivation ?,court,1,psychologie
+418,Que pensez-vous de la timidité ?,court,1,psychologie
+419,Quel est le rôle de l’intelligence ?,court,1,psychologie
+420,Quelle est l’importance de la personnalité ?,long,1,psychologie
+421,Quel est le rôle du bonheur ?,court,1,psychologie
+422,Que pensez-vous de la peur du noir ?,long,1,psychologie
+423,Quelle est l’importance du subconscient ?,long,5,psychologie
+424,Quelles sont les causes des troubles anxieux ?,long,5,psychologie
+425,Quelle est l’importance de la psychanalyse ?,long,5,psychologie
+426,Quel est le rôle du conditionnement pavlovien ?,court,5,psychologie
+427,Quelle est l’importance de la théorie de l’attachement ?,long,5,psychologie
+428,Quelle est l’importance de la neuroplasticité ?,long,5,psychologie
+429,Quelles sont les causes des biais cognitifs ?,long,5,psychologie
+430,Quelles sont les causes de la dépression ?,long,5,psychologie
+431,Quelle est l’importance de la pyramide de Maslow ?,long,5,psychologie
+432,Comment fonctionne le comportement social ?,court,5,psychologie
+433,Quelle est l’importance de la perception sensorielle ?,long,5,psychologie
+434,Que pensez-vous du football ?,court,1,sport
+435,Que pensez-vous des Jeux Olympiques ?,long,1,sport
+436,Que pensez-vous du basketball ?,court,1,sport
+437,Que pensez-vous du tennis ?,court,1,sport
+438,Quel est le rôle de la natation ?,court,1,sport
+439,Quelle est l’importance du cyclisme ?,long,1,sport
+440,Quel est le rôle du marathon ?,court,1,sport
+441,Que pensez-vous de la Coupe du Monde ?,moyen,1,sport
+442,Quelle est l’importance du yoga ?,court,1,sport
+443,Que pensez-vous du ski ?,court,1,sport
+444,Quelles sont les conséquences du dopage sportif ?,long,5,sport
+445,Quelle est l’importance de la préparation mentale ?,long,5,sport
+446,Quelle est l’importance de la physiologie de l’exercice ?,long,5,sport
+447,Quelles sont les conséquences des stratégies d’équipe ?,très long,5,sport
+448,Quelle est l’importance de l’arbitrage vidéo ?,long,5,sport
+449,Quelle est l’importance de l’histoire des Jeux Olympiques ?,long,5,sport
+450,Quel est le rôle de la nutrition sportive ?,court,5,sport
+451,Quelle est l’importance de l’entraînement en altitude ?,long,5,sport
+452,Quelle est l’importance de la réhabilitation physique ?,long,5,sport
+453,Que pensez-vous du chocolat ?,court,1,gastronomie
+454,Que pensez-vous de la pizza ?,court,1,gastronomie
+455,Que pensez-vous du fromage ?,court,1,gastronomie
+456,Que pensez-vous des fruits de mer ?,long,1,gastronomie
+457,Que pensez-vous de la cuisine française ?,long,1,gastronomie
+458,Que pensez-vous d’un gâteau au chocolat ?,moyen,1,gastronomie
+459,Que pensez-vous du pain ?,court,1,gastronomie
+460,Quel est le rôle du vin rouge ?,court,1,gastronomie
+461,Quelle est l’importance des épices ?,moyen,1,gastronomie
+462,Que pensez-vous de la soupe ?,court,1,gastronomie
+463,Que pensez-vous des sushis ?,court,1,gastronomie
+464,Quelle est l’importance de la cuisine moléculaire ?,long,5,gastronomie
+465,Quelles sont les conséquences des accords mets-vins ?,long,5,gastronomie
+466,Quel est le rôle de la fermentation ?,court,5,gastronomie
+467,Quelle est l’importance de la haute cuisine ?,long,5,gastronomie
+468,Quel est le rôle de l’équilibre des saveurs ?,court,5,gastronomie
+469,Quelle est l’importance de la nutrition ?,long,5,gastronomie
+470,Quelle est l’importance des traditions culinaires ?,long,5,gastronomie
+471,Quel est le rôle de la gastronomie moléculaire ?,court,5,gastronomie
+472,Quelle est l’importance du végétarisme ?,long,5,gastronomie
+473,Quelles sont les conséquences des étoiles Michelin ?,très long,5,gastronomie
+474,Quel est le rôle de la viticulture ?,court,5,gastronomie
+475,Que pensez-vous d’un chat ?,court,1,nature
+476,Que pensez-vous de la forêt ?,court,1,nature
+477,Que pensez-vous de l’océan ?,court,1,nature
+478,Que pensez-vous des montagnes ?,court,1,nature
+479,Que pensez-vous d’un chien ?,court,1,nature
+480,Que pensez-vous des fleurs ?,court,1,nature
+481,Quel est le rôle du désert ?,court,1,nature
+482,Que pensez-vous de la rivière ?,court,1,nature
+483,Que pensez-vous d’un éléphant ?,long,1,nature
+484,Quelle est l’importance de la savane ?,court,1,nature
+485,Que pensez-vous des oiseaux migrateurs ?,long,1,nature
+486,Quelles sont les causes du réchauffement climatique ?,long,5,nature
+487,Quelles sont les conséquences de la biodiversité ?,long,5,nature
+488,Quelle est l’importance de la photosynthèse ?,long,5,nature
+489,Quelles sont les conséquences de la chaîne alimentaire ?,long,5,nature
+490,Quelles sont les causes de l’extinction des espèces ?,long,5,nature
+491,Quelles sont les conséquences de la pollution plastique ?,moyen,5,nature
+492,Quelle est l’importance de la conservation des forêts ?,long,5,nature
+493,Quelles sont les causes des énergies renouvelables ?,long,5,nature
+494,Quelles sont les conséquences de l’évolution des espèces ?,long,5,nature
+495,Quelle est l’importance de la théorie de Gaïa ?,long,5,nature
+496,Quel est le rôle de la météorologie ?,long,5,nature
+497,Que pensez-vous des voitures volantes ?,long,1,futurisme
+498,Que pensez-vous des robots domestiques ?,long,1,futurisme
+499,Quelle est l’importance de la ville du futur ?,long,1,futurisme
+500,Que pensez-vous de la colonisation de Mars ?,long,1,futurisme
+501,Que pensez-vous d’un vaisseau spatial ?,long,1,futurisme
+502,Quelle est l’importance des maisons intelligentes ?,long,1,futurisme
+503,Que pensez-vous des voyages temporels ?,long,1,futurisme
+504,Que pensez-vous des drones ?,court,1,futurisme
+505,Quelle est l’importance de la singularité technologique ?,long,5,futurisme
+506,Quel est le rôle de la vie artificielle ?,court,5,futurisme
+507,Quelle est l’importance de l’utopie ?,court,5,futurisme
+508,Quelle est l’importance de la dystopie ?,court,5,futurisme
+509,Quelles sont les conséquences des futurs possibles de l’humanité ?,très long,5,futurisme
+510,Quelles sont les conséquences de l’impact du changement climatique futur ?,très long,5,futurisme
+511,Quel est le rôle de la cybernétique ?,court,5,futurisme
+512,Quelle est l’importance de la simulation de l’univers ?,long,5,futurisme
+513,Quelle est l’importance de l’évolution de l’intelligence artificielle ?,long,5,futurisme
+514,Quel est le rôle de la terraformation ?,court,5,futurisme
+515,Quelle est l’importance de la communication interstellaire ?,long,5,futurisme
+516,Que pensez-vous de l’éducation ?,court,1,société
+517,Que pensez-vous de la famille ?,court,1,société
+518,Que pensez-vous des réseaux sociaux ?,court,1,société
+519,Que pensez-vous de la santé ?,court,1,société
+520,Que pensez-vous du travail ?,court,1,société
+521,Que pensez-vous de la ville ?,court,1,société
+522,Quel est le rôle du commerce équitable ?,moyen,1,société
+523,Que pensez-vous de la pauvreté ?,court,1,société
+524,Que pensez-vous de l’amitié ?,court,1,société
+525,Que pensez-vous de la musique ?,court,1,société
+526,Quelles sont les conséquences de la justice sociale ?,long,5,société
+527,Quelle est l’importance de l’égalité des genres ?,long,5,société
+528,Quelles sont les conséquences de la mondialisation ?,long,5,société
+529,Quelles sont les conséquences du changement climatique ?,long,5,société
+530,Quelle est l’importance de la liberté d’expression ?,long,5,société
+531,Quel est le rôle de la démocratie ?,court,5,société
+532,Quelles sont les conséquences du système éducatif ?,long,5,société
+533,Quelle est l’importance de la laïcité ?,long,5,société
+534,Quelles sont les conséquences de la crise économique ?,moyen,5,société
+535,Quel est le rôle de l’éthique professionnelle ?,court,5,société
+536,Analysez les causes et les conséquences de la Révolution industrielle.,long,5,histoire
+537,Discutez des avantages et des inconvénients du télétravail dans la société moderne.,long,4,société
+538,Évaluez l’impact de la technologie sur la vie privée.,moyen,5,technologie
+539,Comparez les philosophies de Platon et d’Aristote concernant la connaissance.,moyen,5,philosophie
+540,Discutez des implications éthiques de la colonisation de Mars.,long,4,futurisme
+541,Analysez la représentation de la guerre dans l’art à travers deux œuvres de périodes différentes.,long,5,art
+542,Examinez l’influence de l’éducation sur la mobilité sociale.,moyen,4,société
+543,Discutez de l’importance de la biodiversité pour l’avenir de la planète.,long,4,nature
+544,Analysez le rôle de l’IA dans l’évolution du travail humain.,long,4,technologie
+545,Discutez la question : “La fin justifie-t-elle les moyens ?” en argumentant votre position.,long,5,philosophie
+546,Quelle est l’importance de la justice sociale ?,court,4,société
+547,Quel est le rôle de la démocratie participative ?,court,4,société
+548,Quelles sont les conséquences du colonialisme ?,moyen,5,histoire
+549,Quelle est l’importance de l’éthique du débat public ?,long,4,philosophie
+550,Analysez les enjeux de la mondialisation sur les cultures locales.,long,5,société
+551,Quelles sont les conséquences psychologiques du confinement prolongé ?,long,4,psychologie
+552,Décrivez les différences entre une économie planifiée et une économie de marché.,long,3,société
+553,Discutez des avantages et des risques de la biotechnologie en médecine.,long,4,technologie
+554,Comparez l’impact de la voiture et des transports en commun sur l’environnement urbain.,long,4,nature
+555,Que pensez-vous des théories du complot à l’ère d’Internet ?,long,3,société
+556,Quelle est l’importance de la philosophie dans la vie quotidienne ?,long,4,philosophie
+557,Analysez le concept de développement durable et son application pratique.,long,4,société
+558,Discutez des défis éthiques de l’intelligence artificielle dans le domaine militaire.,long,5,technologie
+559,Quel est le rôle de l’art dans la critique sociale ?,court,4,art
+560,Comparez les systèmes de santé de deux pays de votre choix.,long,4,société
+561,Analysez l’importance de la biodiversité dans les écosystèmes marins.,long,4,nature
+562,Quelle est l’importance de la blockchain au-delà des cryptomonnaies ?,moyen,4,technologie
+563,Discutez des causes et des effets de la polarisation politique dans les démocraties modernes.,long,5,société
+564,Quelles sont les conséquences de la déforestation sur le climat global ?,long,4,nature
+565,Quel est le rôle de l’éducation financière à l’école ?,court,3,société
+566,Discutez de la place des réseaux sociaux dans la construction de l’opinion publique.,long,4,société
+567,Analysez les défis du vieillissement de la population dans les pays développés.,long,4,société
+568,Discutez de l’influence de la culture populaire sur les normes sociales.,long,3,société
+569,Quel est le rôle de la mémoire collective dans la formation de l’identité nationale ?,long,4,histoire
+570,Comparez les approches de la psychologie et de la biologie pour expliquer le comportement humain.,long,4,psychologie
+571,Discutez de la responsabilité individuelle face au changement climatique.,long,4,société
+572,Analysez l’impact de la pandémie de COVID-19 sur les relations internationales.,long,5,société
+573,Discutez des enjeux de la colonisation de Mars pour l’humanité.,long,4,futurisme
+574,Quelles sont les conséquences des fake news sur la démocratie ?,long,4,société
+575,Comparez les avantages de l’énergie solaire et de l’énergie nucléaire.,long,3,science
+576,Analysez le concept de “bonheur national brut” et sa pertinence aujourd’hui.,long,5,société
+577,Discutez de l’évolution de la notion de famille au XXIe siècle.,long,3,société
+578,Quel est le rôle des émotions dans la prise de décision ?,court,4,psychologie
+579,Comparez la vision de la justice chez Rawls et Nozick.,long,5,philosophie
+580,Discutez des avantages et des limites de la démocratie directe.,long,4,société
+581,Quel est l’impact des jeux vidéo sur le développement cognitif des enfants ?,long,4,psychologie
+582,Discutez des enjeux de la protection de la vie privée à l’ère du numérique.,long,4,technologie
+583,Analysez l’importance du sommeil pour la santé mentale.,long,3,psychologie
+584,Discutez du concept d’aliénation chez Karl Marx.,long,5,philosophie
+585,Comparez les avantages de la lecture sur écran et sur papier.,long,3,technologie
+586,Quel est le rôle des villes intelligentes dans le futur de l’urbanisme ?,long,4,futurisme
+587,Discutez de l’impact de l’apprentissage en ligne sur l’éducation.,long,3,technologie
+588,Analysez la symbolique de la figure du héros dans les mythologies.,long,4,art
+589,Discutez de la notion de “guerre juste” en philosophie politique.,long,5,philosophie
+590,Quel est l’impact de la robotisation sur le marché du travail ?,long,4,technologie
+591,Comparez la musique classique et la musique moderne en termes d’influence culturelle.,long,3,art
+592,Discutez des enjeux du pluralisme religieux dans les sociétés laïques.,long,4,société
+593,Analysez le rôle des rêves dans la psychanalyse freudienne.,long,5,psychologie
+594,Discutez de la notion de progrès scientifique : a-t-elle des limites ?,long,4,science
+595,Comparez l’impact environnemental des voitures électriques et des voitures à essence.,long,4,nature
+596,Discutez de l’importance de la liberté de la presse dans une démocratie.,long,4,société
+597,Quel est le rôle des arts martiaux dans la culture asiatique ?,court,3,art
+598,Comparez les styles de leadership autocratique et démocratique.,long,4,société
+599,Discutez des défis de l’urbanisation rapide dans les pays en développement.,long,4,société
+600,Analysez la relation entre le langage et la pensée.,long,5,philosophie
+601,Que pensez-vous de la justice ?,court,1,philosophie
+602,Comment fonctionne la liberté d’expression ?,court,1,société
+603,Que pensez-vous du bonheur dans la vie moderne ?,moyen,2,philosophie
+604,Quel est le rôle de la morale dans l’éthique professionnelle ?,moyen,4,philosophie
+605,Que pensez-vous de la conscience écologique ?,court,2,société
+606,Quelle est l’importance de la pensée critique ?,moyen,3,philosophie
+607,Quel est le rôle de la démocratie ?,court,4,société
+608,Que pensez-vous de la peine de mort ?,court,3,société
+609,Quelle est l’importance de la non-violence dans les mouvements sociaux ?,long,4,philosophie
+610,Que pensez-vous de la méditation dans la gestion du stress ?,long,3,psychologie
+611,Quel est le rôle de l’art dans l’éducation des enfants ?,moyen,3,art
+612,Que pensez-vous du voyage dans le temps en science-fiction ?,long,2,futurisme
+613,Quelle est l’importance de la biodiversité dans les forêts tropicales ?,long,4,nature
+614,Que pensez-vous du télétravail ?,court,2,société
+615,Comment fonctionne un ordinateur quantique ?,long,5,technologie
+616,Quelles sont les conséquences de la crise climatique actuelle ?,long,5,nature
+617,Quelle est l’importance de la nutrition dans le sport de haut niveau ?,long,4,sport
+618,Que pensez-vous de l’art abstrait ?,court,2,art
+619,Quel est le rôle des réseaux sociaux dans la diffusion de l’information ?,long,3,société
+620,Que pensez-vous de la robotique en médecine ?,long,3,technologie
+621,Quelle est l’importance de la littératie numérique aujourd’hui ?,long,3,technologie
+622,Que pensez-vous du concept de “slow food” ?,court,2,gastronomie
+623,Quel est le rôle du bénévolat dans la société ?,court,3,société
+624,Que pensez-vous de la colonisation de Mars ?,long,4,futurisme
+625,Quel est le rôle de la musique dans les mouvements de protestation ?,moyen,3,art
+626,Que pensez-vous de l’évolution de la mode au fil des décennies ?,long,2,art
+627,Quelle est l’importance de la lecture chez les enfants ?,long,3,société
+628,Que pensez-vous de l’égalité salariale hommes-femmes ?,long,3,société
+629,Quel est le rôle de la technologie dans l’éducation moderne ?,long,4,technologie
+630,Que pensez-vous de l’utilisation des drones dans la vie quotidienne ?,long,2,technologie
+631,Quelle est l’importance de la diversité biologique ?,long,4,nature
+632,Que pensez-vous du concept de bonheur national brut au Bhoutan ?,long,4,société
+633,Comment fonctionne un vaccin à ARN messager ?,long,4,science
+634,Que pensez-vous de l’utilisation des animaux en recherche scientifique ?,long,4,science
+635,Quelle est l’importance du patrimoine culturel ?,long,3,histoire
+636,Que pensez-vous de l’impact des médias sur les enfants ?,long,3,société
+637,Quel est le rôle des contes de fées dans le développement de l’enfant ?,long,3,psychologie
+638,Que pensez-vous de l’énergie nucléaire comme solution climatique ?,long,4,science
+639,Quelle est l’importance de la courtoisie dans la vie quotidienne ?,long,2,société
+640,Que pensez-vous du rôle de l’ONU dans le maintien de la paix ?,long,3,société
+641,Comment fonctionne la blockchain en quelques mots ?,long,4,technologie
+642,Que pensez-vous de l’évolution des rôles de genre ?,long,3,société
+643,Quelle est l’importance de la photographie dans l’ère numérique ?,long,3,art
+644,Que pensez-vous de la mondialisation culturelle ?,long,3,société
+645,Quel est le rôle de la philosophie dans les sciences ?,long,4,philosophie
+646,Que pensez-vous du véganisme ?,court,2,gastronomie
+647,Quelle est l’importance des langues régionales ?,long,3,société
+648,Que pensez-vous de l’influence des influenceurs sur Instagram ?,long,2,société
+649,Quel est le rôle de la musique dans la filmographie ?,long,3,art
+650,Que pensez-vous de l’exploration spatiale privée ?,long,3,futurisme
+651,Que pensez-vous du recyclage et de son efficacité ?,long,2,nature
+652,Que pensez-vous de l’architecture moderne ?,moyen,2,art
+653,Quel est le rôle du sommeil dans la consolidation de la mémoire ?,long,3,psychologie
+654,Que pensez-vous de l’astrologie ?,court,2,philosophie
+655,Quelle est l’importance de l’entraînement mental pour les athlètes ?,long,4,sport
+656,Que pensez-vous de la censure des œuvres d’art controversées ?,long,4,art
+657,Que pensez-vous de l’utilisation des OGM en agriculture ?,long,3,science
+658,Quel est le rôle des traditions dans la société moderne ?,long,3,société
+659,Que pensez-vous de la médecine traditionnelle vs la médecine moderne ?,long,3,science
+660,Que pensez-vous de la colonisation de l’espace ?,long,4,futurisme
+661,Que pensez-vous des technologies portables (wearables) ?,long,3,technologie
+662,Quel est le rôle de l’humour dans la critique sociale ?,moyen,3,art
+663,Que pensez-vous de la théorie du Big Bang ?,long,3,science
+664,Quelle est l’importance du droit international humanitaire ?,long,4,société
+665,Que pensez-vous de la responsabilité sociale des entreprises ?,long,3,société
+666,Quel est le rôle de la langue dans la pensée selon Sapir-Whorf ?,long,5,philosophie
+667,Que pensez-vous de la place des mathématiques dans l’intelligence artificielle ?,long,4,technologie
+668,Quel est le rôle des médias dans la prévention des fake news ?,long,4,société
+669,Quelle est l’importance de la biologie marine pour l’avenir de nos océans ?,long,4,nature
+670,Que pensez-vous de la psychologie positive ?,court,3,psychologie
+671,Quelle est l’importance de l’échec dans l’apprentissage ?,long,3,psychologie
+672,Que pensez-vous de l’idée du “travail universellement garanti” ?,long,4,société
+673,Que pensez-vous du concept de “smart city” ?,long,3,technologie
+674,Quel est le rôle de l’imagination en science ?,court,4,science
+675,"Que pensez-vous des méthodes alternatives d’éducation (Montessori, Steiner…) ?",très long,4,société
+676,Quelle est l’importance de la biodiversité dans les zones urbaines ?,long,4,nature
+677,Que pensez-vous de la cryogénisation comme espoir d’immortalité ?,long,4,futurisme
+678,Quelle est l’importance des musées à l’ère numérique ?,long,3,art
+679,Que pensez-vous du tourisme spatial naissant ?,long,3,futurisme
+680,Quel est le rôle du jeu dans le développement de l’enfant ?,moyen,3,psychologie
+681,Que pensez-vous de l’évolution du cinéma avec les effets spéciaux ?,long,3,art
+682,Quelle est l’importance de la recherche sur les énergies propres ?,long,4,science
+683,Que pensez-vous de l’idée d’une “Terre plate” ?,court,1,science
+684,Quel est le rôle de la satire en politique ?,court,4,art
+685,Que pensez-vous de l’enseignement à domicile ?,long,3,société
+686,Quelle est l’importance de l’histoire pour comprendre le présent ?,long,3,histoire
+687,Que pensez-vous de la dématérialisation de la monnaie (cryptomonnaies) ?,long,3,technologie
+688,Que pensez-vous du Big Data dans la société actuelle ?,long,3,technologie
+689,Quelle est l’importance du bénévolat dans les communautés locales ?,long,3,société
+690,Que pensez-vous de la conquête de l’espace par SpaceX et d’autres entreprises ?,long,4,futurisme
+691,Quelle est l’importance des océans pour l’équilibre climatique ?,long,4,nature
+692,Que pensez-vous de la pédagogie par le jeu ?,court,3,psychologie
+693,Que pensez-vous de l’éthique en intelligence artificielle ?,long,4,technologie
+694,Quel est le rôle du parlement dans une démocratie moderne ?,long,3,société
+695,Que pensez-vous de la science-fiction en tant qu’outil de réflexion sur le futur ?,long,3,futurisme
+696,Quelle est l’importance de la lecture de philosophie pour les adolescents ?,long,4,philosophie
+697,Que pensez-vous des biais cognitifs dans la prise de décision ?,long,4,psychologie
+698,Quel est le rôle de la poésie dans la société contemporaine ?,long,3,art
+699,Que pensez-vous de la formation en ligne comparée à la formation en présentiel ?,long,3,société
+700,Quelle est l’importance de préserver les langues en voie de disparition ?,long,4,société
+701,Que pensez-vous de la robotique dans l’exploration des océans ?,long,3,technologie
+702,Quelle est l’importance des rites et des cérémonies dans les cultures ?,long,3,société
+703,Que pensez-vous de la responsabilité individuelle dans la protection de l’environnement ?,long,4,société
+704,Quelle est l’importance de l’éducation artistique à l’école ?,long,3,art
+705,Que pensez-vous de l’utilisation de l’énergie géothermique ?,long,3,science
+706,Quel est le rôle de la critique littéraire ?,court,3,art
+707,Que pensez-vous de la relation homme-machine à l’avenir ?,long,4,technologie
+708,Quelle est l’importance des satellites dans la vie moderne ?,long,3,technologie
+709,Que pensez-vous du minimalisme comme mode de vie ?,long,2,philosophie
+710,Quelle est l’importance des droits numériques pour les citoyens ?,long,4,technologie
+711,Que pensez-vous de l’évolution du rôle des femmes dans la société ?,long,3,société
+712,Quel est le rôle de l’ONU dans la régulation des conflits ?,long,3,société
+713,Que pensez-vous du potentiel de l’énergie de fusion ?,long,4,science
+714,Quelle est l’importance de la confidentialité des données personnelles ?,long,4,technologie
+715,Que pensez-vous de l’idée de coloniser les océans (villes flottantes) ?,long,4,futurisme
+716,Quelle est l’importance de la littérature dans la formation de la pensée critique ?,long,4,art
+717,Que pensez-vous de l’utilisation des drones militaires ?,long,4,technologie
+718,Quel est le rôle de la psychologie dans l’amélioration des performances sportives ?,long,4,sport
+719,Que pensez-vous de la relation entre l’art et la politique ?,long,3,art
+720,Quelle est l’importance de la diplomatie culturelle entre les nations ?,long,4,société
+721,Que pensez-vous de l’idée d’une éducation universelle et gratuite ?,long,4,société
+722,Quelle est l’importance de l’intelligence émotionnelle en milieu de travail ?,long,4,psychologie
+723,Que pensez-vous de la colonisation planétaire comme “Plan B” pour l’humanité ?,long,4,futurisme
+724,Quelle est l’importance des ONG dans l’aide humanitaire internationale ?,long,3,société
+725,Que pensez-vous de l’influence de la Lune sur le comportement humain ?,long,2,science
+726,Quelle est l’importance des abeilles dans les écosystèmes ?,long,3,nature
+727,Que pensez-vous de la thérapie génique pour traiter les maladies héréditaires ?,long,4,science
+728,Quel est le rôle de la philosophie dans le débat moral sur l’euthanasie ?,long,5,philosophie
+729,Que pensez-vous de la mode éthique et durable ?,long,2,société
+730,Quelle est l’importance de la musique dans l’éducation ?,long,3,art
+731,Que pensez-vous de l’introduction d’espèces invasives dans un écosystème ?,long,4,nature
+732,Quelle est l’importance du langage corporel dans la communication ?,long,3,psychologie
+733,Que pensez-vous de la légalisation de l’euthanasie ?,long,4,société
+734,Quelle est l’importance du mouvement Maker dans l’innovation ?,long,4,technologie
+735,Que pensez-vous de la protection des données personnelles en ligne ?,long,4,technologie
+736,Quelle est l’importance de la recherche spatiale pour la science ?,long,4,futurisme
+737,Que pensez-vous de l’impact d’Internet sur la lecture et la concentration ?,long,3,technologie
+738,Quelle est l’importance de la diplomatie dans la résolution des conflits internationaux ?,long,4,société
+739,Que pensez-vous du rôle de la jeunesse dans les changements sociaux ?,long,3,société
+740,Quelle est l’importance de la biodiversité dans les récifs coralliens ?,long,4,nature
+741,Que pensez-vous de la notion d’égalité des chances ?,long,3,société
+742,Quelle est l’importance de l’apprentissage des langues étrangères ?,long,3,société
+743,Que pensez-vous de la médiatisation des procès criminels ?,long,3,société
+744,Quelle est l’importance du vote dans une démocratie ?,long,2,société
+745,Que pensez-vous de la théorie de l’évolution ?,court,5,science
+746,Quelle est l’importance de la fertilité des sols pour l’agriculture ?,long,4,science
+747,Que pensez-vous de l’idée de télépathie ?,court,2,science
+748,Quelle est l’importance de la mode dans l’expression personnelle ?,long,2,société
+749,Que pensez-vous du rôle de l’État dans la régulation économique ?,long,4,société
+750,Quelle est l’importance de l’humilité dans le leadership ?,long,3,société
+751,"Que pensez-vous des méthodes de colonisation spatiale (dômes, souterrains, etc.) ?",très long,4,futurisme
+752,Quelle est l’importance de la curiosité scientifique ?,long,3,science
+753,Que pensez-vous de l’influence française dans la gastronomie mondiale ?,long,3,gastronomie
+754,Quelle est l’importance de la poésie dans la littérature mondiale ?,long,3,art
+755,Que pensez-vous de la diversité dans les médias ?,long,3,société
+756,Quel est le rôle des mathématiques dans les autres disciplines scientifiques ?,long,4,science
+757,Que pensez-vous de l’idée d’une conscience artificielle ?,long,4,technologie
+758,Quelle est l’importance des droits de l’enfant ?,long,3,société
+759,Que pensez-vous de l’athéisme dans les sociétés majoritairement religieuses ?,long,4,philosophie
+760,Quelle est l’importance de l’eau potable pour le développement ?,long,3,nature
+761,Que pensez-vous de la robotique éducative dans les écoles ?,long,3,technologie
+762,Quelle est l’importance de la philosophie des Lumières aujourd’hui ?,long,4,philosophie
+763,Que pensez-vous des expériences de pensée en philosophie (ex : dilemme du tramway) ?,long,4,philosophie
+764,Quel est le rôle de l’empathie dans les relations humaines ?,moyen,3,psychologie
+765,Que pensez-vous de l’immersion linguistique pour apprendre une langue ?,long,2,société
+766,Quelle est l’importance de la solidarité internationale en cas de catastrophe ?,long,3,société
+767,Que pensez-vous de la méthode scientifique ?,court,3,science
+768,Quelle est l’importance de l’éducation civique à l’école ?,long,3,société
+769,Que pensez-vous de l’impact des émissions de téléréalité sur la société ?,long,2,société
+770,Quelle est l’importance des associations étudiantes dans la vie universitaire ?,long,2,société
+771,Que pensez-vous de la globalisation culturelle grâce à Internet ?,long,3,société
+772,Quelle est l’importance de la langue latine dans les langues modernes ?,long,3,art
+773,Que pensez-vous des défis logiques comme les échecs ou le go pour le cerveau ?,très long,3,logique
+774,Quelle est l’importance de l’histoire de l’art dans la compréhension d’une œuvre ?,long,3,art
+775,Que pensez-vous du métier d’influenceur ?,court,2,société
+776,Quelle est l’importance de la biodiversité dans un jardin urbain ?,long,3,nature
+777,Que pensez-vous du “cloud computing” pour le stockage des données ?,long,3,technologie
+778,Quelle est l’importance de l’accessibilité numérique pour les personnes handicapées ?,long,4,technologie
+779,Que pensez-vous de l’éducation sexuelle à l’école ?,long,3,société
+780,Quelle est l’importance de la négociation dans la diplomatie ?,long,3,société
+781,Que pensez-vous du concept d’identité nationale à l’ère de la mondialisation ?,long,4,société
+782,Quelle est l’importance du patrimoine mondial de l’UNESCO ?,long,3,histoire
+783,Que pensez-vous de l’énergie éolienne ?,court,2,science
+784,Quelle est l’importance des récits mythologiques dans les cultures modernes ?,long,4,art
+785,Que pensez-vous de la notion de destin ?,court,3,philosophie
+786,Quelle est l’importance de la recherche fondamentale même sans application immédiate ?,long,4,science
+787,Que pensez-vous de la pratique du débat en classe ?,long,2,société
+788,Quelle est l’importance de la mémoire historique ?,long,3,histoire
+789,Que pensez-vous de la mode “fast fashion” ?,court,2,société
+790,Quelle est l’importance du recyclage des déchets électroniques ?,long,3,technologie
+791,Que pensez-vous du sport électronique (e-sport) ?,court,2,sport
+792,Quelle est l’importance du droit des animaux dans la société moderne ?,long,4,société
+793,Que pensez-vous du phénomène du burn-out au travail ?,long,3,psychologie
+794,Quelle est l’importance de la littérature scientifique en accès libre (open access) ?,long,4,science
+795,Que pensez-vous de l’utilisation des statistiques en sciences sociales ?,long,3,science
+796,Quelle est l’importance de la philosophie orientale dans le développement personnel ?,long,4,philosophie
+797,Que pensez-vous de l’immigration comme source de richesse culturelle ?,long,3,société
+798,Quelle est l’importance de la fête dans la cohésion sociale ?,long,3,société
+799,Que pensez-vous de l’utilisation de tablettes à l’école primaire ?,long,3,technologie
+800,Quelle est l’importance de préserver l’Amazonie pour l’équilibre climatique ?,long,4,nature
+801,Que pensez-vous du rôle des médias sociaux dans les mouvements sociaux récents ?,long,4,société
+802,Quelle est l’importance des parcs nationaux pour la conservation ?,long,3,nature
+803,Que pensez-vous de la philosophie stoïcienne appliquée aujourd’hui ?,long,4,philosophie
+804,"Quelle est l’importance des femmes dans les STIM (sciences, technologie, ingénierie, mathématiques) ?",long,4,société
+805,Que pensez-vous de l’architecture écologique (éco-construction) ?,long,3,art
+806,Quelle est l’importance de la psychologie du travail pour le bien-être des employés ?,long,3,psychologie
+807,Que pensez-vous de la protection des droits d’auteur à l’ère numérique ?,long,4,technologie
+808,Quelle est l’importance des codes moraux dans les jeux vidéo narratifs ?,long,3,art
+809,Que pensez-vous de la relation entre science et religion ?,long,4,philosophie
+810,Quelle est l’importance de la traduction pour la diffusion des savoirs ?,long,3,art
+811,Que pensez-vous de la diminution de la biodiversité dans les océans ?,long,4,nature
+812,Quelle est l’importance de la pensée critique à l’ère de la désinformation ?,long,4,philosophie
+813,Que pensez-vous du développement durable en milieu urbain ?,long,3,société
+814,Quelle est l’importance de l’éthique dans la recherche scientifique ?,long,4,science
+815,Que pensez-vous des initiatives de revenu minimum universel ?,long,4,société
+816,Quelle est l’importance de la simulation informatique en météo ?,long,3,science
+817,Que pensez-vous du langage inclusif ?,court,3,société
+818,Quelle est l’importance des réseaux d’entraide locaux ?,long,3,société
+819,Que pensez-vous de l’utilisation de robots dans les soins aux personnes âgées ?,long,4,technologie
+820,Quelle est l’importance de la psychologie du développement dans l’éducation ?,long,3,psychologie
+821,Que pensez-vous de la place de la philosophie dans les programmes scolaires ?,long,4,philosophie
+822,"Quelle est l’importance du patrimoine immatériel (chants, danses, traditions) ?",long,3,histoire
+823,Que pensez-vous du concept d’économie circulaire ?,long,3,science
+824,Quelle est l’importance de la santé mentale dans les politiques de santé publique ?,long,4,psychologie
+825,Que pensez-vous de la notion de progrès infini ?,court,4,philosophie
+826,Quelle est l’importance de la formation continue tout au long de la vie ?,long,3,société
+827,Que pensez-vous des initiatives de villes sans voiture ?,long,3,société
+828,Quelle est l’importance de la pluralité des médias pour la démocratie ?,long,4,société
+829,Que pensez-vous de la gestion de la pandémie par l’OMS ?,long,4,société
+830,Quelle est l’importance de la science citoyenne (participation du public à la recherche) ?,long,3,science
+831,Que pensez-vous de l’art numérique ?,court,2,art
+832,"Quelle est l’importance des langues mortes (latin, grec) dans la culture contemporaine ?",long,3,art
+833,Que pensez-vous de l’idée d’une “année sabbatique” pour les étudiants ?,long,2,société
+834,Quelle est l’importance de la théorie du chaos en science ?,long,4,science
+835,Que pensez-vous de l’impact des influenceurs sur la consommation ?,long,3,société
+836,Quelle est l’importance de l’éducation parentale dans la petite enfance ?,long,3,psychologie
+837,Que pensez-vous de la cohabitation intergénérationnelle (maison de retraite et crèche ensemble) ?,long,3,société
+838,Quelle est l’importance de la musique dans la culture japonaise traditionnelle ?,long,3,art
+839,Que pensez-vous de la dualité onde-corpuscule en physique quantique ?,long,5,science
+840,Quelle est l’importance des amphibiens dans les écosystèmes ?,long,3,nature
+841,Que pensez-vous du sens de la vie ?,court,5,philosophie
+842,Quelle est l’importance de la collaboration internationale en science ?,long,4,science
+843,Que pensez-vous de l’immersion culturelle lors de voyages à l’étranger ?,long,2,société
+844,Quelle est l’importance de l’éducation financière pour les adolescents ?,long,3,société
+845,Que pensez-vous des expériences sur la conscience (ex: expérience de la caverne de Platon) ?,très long,5,philosophie
+846,Quelle est l’importance du design dans la vie quotidienne ?,long,2,art
+847,Que pensez-vous de l’automatisation de la main-d’œuvre ?,long,3,technologie
+848,Quelle est l’importance des réseaux sociaux dans la publicité moderne ?,long,3,société
+849,Que pensez-vous de l’avenir de la langue française face à l’anglais ?,long,3,société
+850,Quelle est l’importance de la philosophie dans la science (éthique scientifique) ?,long,4,philosophie
+851,Que pensez-vous du commerce en ligne par rapport aux magasins physiques ?,long,2,société
+852,Quelle est l’importance des archives historiques ?,long,3,histoire
+853,Que pensez-vous de l’intérêt grandissant pour la méditation et le yoga en Occident ?,long,3,psychologie
+854,Quelle est l’importance de la diversité des écosystèmes pour la résilience climatique ?,long,4,nature
+855,Que pensez-vous des cryptomonnaies comme alternative aux monnaies traditionnelles ?,long,3,technologie
+856,Quelle est l’importance de l’apprentissage de l’histoire pour éviter de répéter les erreurs du passé ?,long,4,histoire
+857,Que pensez-vous de la notion de bonheur au travail ?,long,3,psychologie
+858,Quelle est l’importance des mathématiques dans la vie de tous les jours ?,long,2,science
+859,Que pensez-vous de la relation entre musique et mathématiques ?,long,3,art
+860,Quelle est l’importance des amphithéâtres dans l’éducation antique ?,long,2,histoire
+861,Que pensez-vous du rôle des médias dans la crise climatique ?,long,4,société
+862,Quelle est l’importance des livres numériques par rapport aux livres papier ?,long,2,technologie
+863,Que pensez-vous de l’influence de la cuisine française à l’étranger ?,long,2,gastronomie
+864,Quelle est l’importance de la diversité linguistique dans le monde ?,long,3,société
+865,Que pensez-vous de la mode comme forme d’art ?,court,2,art
+866,Quelle est l’importance de la recherche en psychologie cognitive pour l’éducation ?,long,4,psychologie
+867,Que pensez-vous de la responsabilité des scientifiques dans l’utilisation de leurs découvertes ?,long,4,science
+868,Quelle est l’importance de l’éducation musicale dès le plus jeune âge ?,long,3,art
+869,Que pensez-vous de la restauration des œuvres d’art endommagées ?,long,3,art
+870,Quelle est l’importance de l’empathie dans la société actuelle ?,long,3,psychologie
+871,Que pensez-vous de la colonisation de la Lune avant Mars ?,long,4,futurisme
+872,Quelle est l’importance de la festivité et des célébrations pour une communauté ?,long,2,société
+873,Que pensez-vous de la dépendance aux technologies modernes ?,long,3,psychologie
+874,Quelle est l’importance du mentorat pour la réussite professionnelle ?,long,3,société
+875,Que pensez-vous de l’idée de rendre les transports en commun gratuits ?,long,3,société
+876,Quelle est l’importance des récits de science-fiction dans l’inspiration scientifique réelle ?,long,4,futurisme
+877,Que pensez-vous de la censure sur Internet par les gouvernements ?,long,3,société
+878,Quelle est l’importance de la biodiversité dans les sols agricoles ?,long,4,nature
+879,Que pensez-vous de l’éthique de l’édition du génome humain (CRISPR) ?,long,5,science
+880,Quelle est l’importance du patrimoine architectural dans l’identité d’une ville ?,long,3,art
+881,Que pensez-vous de l’impact de l’intelligence artificielle sur l’emploi ?,long,4,technologie
+882,Quelle est l’importance des bibliothèques à l’ère du numérique ?,long,3,société
+883,Que pensez-vous de la responsabilité individuelle vs collective dans la lutte contre le changement climatique ?,très long,4,société
+884,Quelle est l’importance de la Lune dans certaines cultures ?,long,2,nature
+885,Que pensez-vous de la théorie des jeux en économie ?,long,4,science
+886,Quelle est l’importance de la méditation dans les pratiques de bien-être modernes ?,long,3,psychologie
+887,Que pensez-vous de la divulgation d’informations classifiées pour la transparence (lanceurs d’alerte) ?,très long,4,société
+888,Quelle est l’importance de la mémoire collective après un conflit ?,long,4,histoire
+889,Que pensez-vous du tourisme virtuel (voyages en réalité virtuelle) ?,long,2,technologie
+890,Quelle est l’importance de la biodiversité des insectes pollinisateurs ?,long,4,nature
+891,Que pensez-vous du rôle de l’éthique dans l’intelligence artificielle ?,long,4,technologie
+892,Quelle est l’importance de la poésie dans la culture chinoise ?,long,3,art
+893,Que pensez-vous de l’enseignement de la philosophie dès le collège ?,long,3,philosophie
+894,Quelle est l’importance de l’accès à l’eau potable dans le monde ?,long,3,nature
+895,Que pensez-vous du pouvoir des algorithmes sur nos choix en ligne ?,long,4,technologie
+896,Quelle est l’importance de la robotique dans la chirurgie moderne ?,long,4,technologie
+897,Que pensez-vous de l’évolution du rôle des bibliothèques à l’ère numérique ?,long,3,société
+898,Quelle est l’importance du bénévolat chez les jeunes ?,long,2,société
+899,Que pensez-vous de l’utilisation des masques en réalité augmentée ?,long,2,technologie
+900,Quelle est l’importance de la langue arabe dans les sciences du Moyen Âge ?,long,3,histoire
+901,Que pensez-vous de la relation entre la science et la science-fiction ?,long,3,science
+902,Quelle est l’importance de la cuisine méditerranéenne pour la santé ?,long,2,gastronomie
+903,Que pensez-vous de l’hypothèse Gaïa en écologie ?,long,4,nature
+904,Quelle est l’importance des satellites météorologiques pour les prévisions ?,long,3,science
+905,Que pensez-vous de la télémédecine ?,court,3,technologie
+906,Quelle est l’importance des récits historiques dans la construction des nations ?,long,4,histoire
+907,Que pensez-vous de l’exploration des abysses marins ?,long,3,nature
+908,Quelle est l’importance du sport dans l’éducation des jeunes ?,long,3,sport
+909,Que pensez-vous de la politisation du sport ?,long,3,sport
+910,Quelle est l’importance de la prévention en médecine ?,long,3,science
+911,Que pensez-vous de la place de l’anglais comme langue internationale ?,long,3,société
+912,Quelle est l’importance de la philosophie morale dans la bioéthique ?,long,5,philosophie
+913,Que pensez-vous de l’idée de quartiers autosuffisants en énergie ?,long,4,science
+914,Quelle est l’importance de la faune sauvage dans les zones protégées ?,long,4,nature
+915,Que pensez-vous de l’utilisation de l’intelligence artificielle en art (ex : tableaux générés) ?,long,4,art
+916,Quelle est l’importance de la famille élargie dans certaines cultures ?,long,2,société
+917,Que pensez-vous du transhumanisme et de l’augmentation de l’humain ?,long,5,technologie
+918,Quelle est l’importance de la recherche océanographique ?,long,3,nature
+919,Que pensez-vous de la décroissance comme modèle économique alternatif ?,long,4,société
+920,Quelle est l’importance des festivals culturels pour la société ?,long,2,société
+921,Que pensez-vous de la place de la poésie dans la chanson actuelle ?,long,3,art
+922,Quelle est l’importance de la simulation informatique en économie (modèles économiques) ?,long,4,science
+923,Que pensez-vous du rôle des citoyens dans la science participative ?,long,3,science
+924,Quelle est l’importance de l’histoire locale dans l’identité culturelle ?,long,3,histoire
+925,Que pensez-vous de l’impact de l’automatisation sur la qualité de vie ?,long,4,technologie
+926,Quelle est l’importance des incubateurs de start-ups pour l’innovation ?,long,3,technologie
+927,"Que pensez-vous de la philanthropie des milliardaires (ex : Gates, Buffett) ?",long,3,société
+928,Quelle est l’importance de la tradition orale dans la transmission des savoirs ?,long,3,histoire
+929,Que pensez-vous de l’usage de robots compagnons (comme Aibo) ?,long,2,technologie
+930,Quelle est l’importance de la fiction dans la compréhension de la réalité ?,long,4,art
+931,Que pensez-vous du “cloud gaming” pour l’avenir du jeu vidéo ?,long,2,technologie
+932,Quelle est l’importance de l’éducation à la citoyenneté mondiale ?,long,3,société
+933,Que pensez-vous de la responsabilité collective face aux pandémies ?,long,4,société
+934,Quelle est l’importance de la théorie de l’évolution dans la biologie moderne ?,long,4,science
+935,Que pensez-vous de la notion de temps cyclique dans certaines philosophies ?,long,5,philosophie
+936,Quelle est l’importance des forêts urbaines pour les villes ?,long,4,nature
+937,Que pensez-vous de l’utilisation de drones pour la livraison de colis ?,long,2,technologie
+938,Quelle est l’importance de l’artisanat local dans l’économie ?,long,3,société
+939,"Que pensez-vous des thérapies alternatives (homéopathie, acupuncture) ?",long,3,science
+940,Quelle est l’importance de la pensée de Descartes dans la science moderne ?,long,4,philosophie
+941,Que pensez-vous de l’impact environnemental du numérique (pollution numérique) ?,long,4,technologie
+942,"Quelle est l’importance des mathématiques dans la musique (rythme, harmonique) ?",long,3,art
+943,Que pensez-vous du libre-échange commercial mondial ?,long,3,société
+944,Quelle est l’importance de l’agriculture biologique pour la santé et l’environnement ?,long,3,gastronomie
+945,Que pensez-vous de l’impact du tourisme de masse sur les sites historiques ?,long,4,histoire
+946,Quelle est l’importance des mythes de création dans différentes cultures ?,long,4,art
+947,Que pensez-vous de la protection des lanceurs d’alerte ?,long,4,société
+948,Quelle est l’importance de la psychologie sociale dans la compréhension des comportements de groupe ?,long,4,psychologie
+949,Que pensez-vous de l’héritage culturel de la Grèce antique ?,long,3,histoire
+950,Quelle est l’importance de la cartographie ancienne pour la géographie moderne ?,long,3,histoire
+951,Que pensez-vous du rôle des influenceurs dans l’éducation (ex : vulgarisateurs scientifiques) ?,très long,3,société
+952,Quelle est l’importance de la notion de respect dans les relations internationales ?,long,4,société
+953,Que pensez-vous du commerce équitable pour les producteurs du Sud ?,long,2,société
+954,Quelle est l’importance de la méditation transcendantale dans la gestion du stress ?,long,3,psychologie
+955,Que pensez-vous de la colonisation des fonds marins (mines sous-marines) ?,long,4,nature
+956,Quelle est l’importance de la science des données (data science) dans la société actuelle ?,long,4,technologie
+957,Que pensez-vous de la place de l’anglais dans les terminologies scientifiques ?,long,3,science
+958,Quelle est l’importance des romans dystopiques pour la réflexion sociale ?,long,4,art
+959,Que pensez-vous de l’impact des IA créatives sur la production artistique ?,long,4,art
+960,Quelle est l’importance de l’éthique en politique ?,long,4,philosophie
+961,Que pensez-vous du rôle des émotions en politique ?,long,4,psychologie
+962,Quelle est l’importance de la mémoire culturelle de la Seconde Guerre mondiale en Europe ?,long,4,histoire
+963,Que pensez-vous de la théorie de la relativité pour notre vision du temps et de l’espace ?,long,5,science
+964,Quelle est l’importance de l’introspection philosophique pour le développement personnel ?,long,4,philosophie
+965,Que pensez-vous de l’évolution du langage avec les émojis et abréviations ?,long,2,société
+966,Quelle est l’importance de la lutte contre les discriminations systémiques ?,long,4,société
+967,Que pensez-vous de la valorisation de l’artisanat local dans l’économie globalisée ?,long,3,société
+968,Quelle est l’importance du développement des énergies renouvelables pour l’avenir ?,long,4,science
+969,Que pensez-vous de l’importance de la mode comme moyen d’expression politique ?,long,3,société
+970,Quelle est l’importance des colloïdes en chimie et en industrie ?,long,4,science
+971,Que pensez-vous de la gamification dans l’apprentissage ?,long,3,psychologie
+972,Quelle est l’importance de la critique constructive dans la société ?,long,3,philosophie
+973,Que pensez-vous de l’influence du climat sur les civilisations historiques ?,long,4,histoire
+974,Quelle est l’importance de la robotique dans l’exploration spatiale ?,long,4,technologie
+975,Que pensez-vous des monnaies locales complémentaires ?,long,3,société
+976,Quelle est l’importance de la narratologie dans les jeux vidéo ?,long,3,art
+977,Que pensez-vous du fait de peupler d’autres planètes ?,court,4,futurisme
+978,Quelle est l’importance des rituels dans la construction de la communauté ?,long,3,société
+979,Que pensez-vous de la place de l’intuition dans le processus scientifique ?,long,4,science
+980,Quelle est l’importance de la biodiversité dans les montagnes ?,long,3,nature
+981,Que pensez-vous de l’impact de la musique sur la productivité ?,long,3,psychologie
+982,Quelle est l’importance des mathématiques dans la modélisation du climat ?,long,4,science
+983,Que pensez-vous de l’idée du libre arbitre à l’ère des neurosciences ?,long,5,philosophie
+984,Quelle est l’importance de l’éthique du hacking (hacking éthique) ?,long,4,technologie
+985,Que pensez-vous de la montée de l’auto-édition (livres autopubliés) ?,long,2,art
+986,Quelle est l’importance de l’éducation multiculturelle dans nos sociétés ?,long,3,société
+987,Que pensez-vous de la recherche de la vie extraterrestre ?,long,3,futurisme
+988,Quelle est l’importance des échanges Erasmus pour la construction européenne ?,long,3,société
+989,Quelle est l’importance de la musique baroque ?,moyen,5,art
+990,Que pensez-vous de l’éthique utilitariste ?,court,5,philosophie
+991,Quelle est l’importance du conditionnement pavlovien ?,court,5,psychologie
+992,Quelle est l’importance de la viticulture ?,court,5,gastronomie
+993,Quelle est l’importance de la pollution plastique ?,moyen,5,nature
+994,Que pensez-vous de la singularité technologique ?,court,5,futurisme
+995,Quelles sont les conséquences de la crise économique ?,moyen,5,société
+996,Quelle est l’importance de l’empire ottoman ?,court,5,histoire
+997,Quelle est l’importance de l’informatique quantique ?,court,5,technologie
+998,Comment fonctionne le comportement social ?,court,5,psychologie
+999,Que pensez-vous de la pollution plastique ?,court,5,nature
+1000,Quelle est l’importance du concept d’inconscient chez Freud ?,moyen,5,philosophie
